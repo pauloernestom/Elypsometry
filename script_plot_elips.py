@@ -203,11 +203,3 @@ for i in temperatures:
     f2.close()
 """
 print('\n  --- %s seconds --- \n'% (time.time() - start_time))
-
-<<<<<<< HEAD
-######
-=======
-
-
-########
->>>>>>> teste
